@@ -1,0 +1,23 @@
+További szabályok
+S->aS
+S->B
+B->bBc
+B->C
+C->dCe
+C->D
+D->fDg
+D->h
+
+
+S->aS
+S->bAc
+A->bAc
+A->d
+
+
+
+S->aAc
+S->b
+A->aSc
+A->b
+
